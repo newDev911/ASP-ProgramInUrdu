@@ -1,0 +1,8 @@
+﻿
+Add CSS file in a new "css" folder
+
+Drag & drop it to Master page inside "head" tag
+
+Same ID cannot be used in MasterPage html
+
+Style Master element with css

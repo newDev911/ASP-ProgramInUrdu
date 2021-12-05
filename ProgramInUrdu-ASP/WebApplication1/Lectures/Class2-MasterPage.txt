@@ -1,0 +1,20 @@
+﻿1. Add New Master Page
+	Right click (Project Explorer) > Add New Item > Web Forms Master Page
+	(Site.Master)
+
+2. MASTER PAGE:
+	This is a template page which will be linked to all our pages.
+
+3. Add New Item "Web Forms Using Master Page" > Select our Master page and click "Add"
+	
+	> Name it "Class2.aspx"
+
+	> Go to it's "Design View" and you'll see that our Master Page will be linked with it
+
+4. Add another "Web Forms Using Master Page" named "contact.aspx"
+
+5. Right Click on "Default.aspx" and select "Set As Start Page"
+
+-- 
+
+* Master page file linked can also changed by changing link of attribute "MasterPageFile" in aspx file

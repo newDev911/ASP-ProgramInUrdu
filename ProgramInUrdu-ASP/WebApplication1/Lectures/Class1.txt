@@ -1,0 +1,12 @@
+﻿
+
+1. ADD NEW "WebForm.aspx"
+
+2. Types of views 
+		Desing View - Drag & Drop
+		Source View - Code HTML,CSS & JS
+
+	Use "ToolBox" to drag elements to body in "Design View"
+	Use "Properties" window to define properties of elements
+
+	* To generate an event on a button, double click on button in "Design View"
